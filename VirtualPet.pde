@@ -36,5 +36,5 @@ void draw()
   ellipse(211,145,2.5,5);
   
   ellipse(271,145,2.5,5);
-  background(60, 125, 114)
+  background(60, 125, 114);
 }
